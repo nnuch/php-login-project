@@ -2,8 +2,7 @@
 
  Highlights
  
-      -PHP Login / Logout System
-      
+      - PHP Login / Logout System <br>
       - New user registration
       
       - Send new user info to admin by email, include approve and deny buttons
