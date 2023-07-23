@@ -76,7 +76,7 @@
 	</div>
 	 
 	<footer>
-	  	<hr><center><h6 style="color:white"> 2017 Created By Nuch Phromsorn </h6></center> 
+	  	//<hr><center><h6 style="color:white">/h6></center> 
 	</footer> 
 
 </div>
